@@ -1,6 +1,7 @@
 <template>
 <div id="app">
   <h1>哈哈哈</h1>
+  <h2>other分支</h2>
   <p>welcom vuex-demo</p>
   <input type="button" name="" value="增加" @click="add">
   <input type="button" name="" value="减少" @click="reduce">

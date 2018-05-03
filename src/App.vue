@@ -1,12 +1,17 @@
 <template>
 <div id="app">
   <h1>哈哈哈</h1>
+  <h2>other分支</h2>
+  <h3>vsCode的编辑器 </h3>
+  <h3>vsCode的第三次提交 </h3>
   <p>welcom vuex-demo</p>
   <h3>提交到主分支master</h3>
   <input type="button" name="" value="增加" @click="add">
   <input type="button" name="" value="减少" @click="reduce">
   <input type="button" name="" value="偶数增加" @click="oddAdd">
   <input type="button" name="" value="异步增加" @click="clickAsync">
+
+
 
   <div class="">
     当前的数字：{{count}}; 这是:{{isOdd}}

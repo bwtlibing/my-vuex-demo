@@ -7,6 +7,7 @@
   <p>welcom vuex-demo</p>
   <h3>提交到主分支master</h3>
   <h3>提交到master分支</h3>
+  <h4>选择分支</h4>
   <input type="button" name="" value="增加" @click="add">
   <input type="button" name="" value="减少" @click="reduce">
   <input type="button" name="" value="偶数增加" @click="oddAdd">

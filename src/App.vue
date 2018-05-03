@@ -3,6 +3,7 @@
   <h1>哈哈哈</h1>
   <h2>other分支</h2>
   <h3>vsCode的编辑器 </h3>
+  <h3>vsCode的第三次提交 </h3>
   <p>welcom vuex-demo</p>
   <input type="button" name="" value="增加" @click="add">
   <input type="button" name="" value="减少" @click="reduce">

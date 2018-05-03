@@ -2,6 +2,7 @@
 <div id="app">
   <h1>哈哈哈</h1>
   <p>welcom vuex-demo</p>
+  <h3>提交到主分支master</h3>
   <input type="button" name="" value="增加" @click="add">
   <input type="button" name="" value="减少" @click="reduce">
   <input type="button" name="" value="偶数增加" @click="oddAdd">

@@ -1,5 +1,6 @@
 <template>
 <div id="app">
+  <h1>哈哈哈</h1>
   <p>welcom vuex-demo</p>
   <input type="button" name="" value="增加" @click="add">
   <input type="button" name="" value="减少" @click="reduce">
@@ -11,6 +12,7 @@
     <br> {{hello}}
   </div>
   <br> 增加价格：{{price}}
+
 </div>
 </template>
 

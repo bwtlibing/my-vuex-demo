@@ -12,6 +12,7 @@
   <h5>选择分支2</h5>
   <h5>选择分支3</h5>
   <h5>选择分支4</h5>
+  <h5>提交到主分支</h5>
   <input type="button" name="" value="增加" @click="add">
   <input type="button" name="" value="减少" @click="reduce">
   <input type="button" name="" value="偶数增加" @click="oddAdd">
